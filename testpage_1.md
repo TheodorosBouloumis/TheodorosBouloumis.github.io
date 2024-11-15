@@ -1,1 +1,6 @@
+layout: page
+title: "Test Page 1 - prime"
+permalink: /tp1prime
 
+Let's add some contents in the front matter.
+How does this look like?

@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Theodoros Bouloumis is originally from Greece.
+He hold a BSc in Physics from Aristotle University of Thessaloniki, Greece and a PhD in Physics from Okinawa Institute of Science and Technology, Japan OIST.
+Currently, he works as Quantum Researcher at Falcondale, a US-based quantum computing specializing in quantum machine learning in fintech.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![_DSC5120](https://github.com/user-attachments/assets/3e668e3b-c409-4c62-ac20-13ebbbef9b46)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+LinkedIn [linkedin]: https://www.linkedin.com/in/theodore-bouloumis/
+Google scholar [research-papers]: https://scholar.google.co.jp/citations?user=OH3UiRsAAAAJ&hl=en
+Reach out to [email]: teoloumis@gmail.com or theodoros@falcondale.pro
+[jekyll-organization]: https://falcondale.pro

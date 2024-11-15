@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TEO'S FIRST POST"
-date: 2024-11-15 hh:mm:ss -0000
+date: 2024-11-15 15:44:29 +0200
 categories: CATEGORY-1
 ---
 That's some content for my post!

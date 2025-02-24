@@ -38,7 +38,7 @@ https://www.classiq.io/insights/shors-algorithm-explained
 - **Get a beginner-friendly introduction to quantum gates and how they enable quantum computations using the architecture of a quantum circuit:**
 https://learning.quantum.ibm.com/course/basics-of-quantum-information/quantum-circuits
 
-###Chapter Figures
+### Chapter Figures
 
 - **Figure 1: Bit vs qubit states**
 https://resources.mouser.com/methods/engineering-the-quantum-future
@@ -55,4 +55,5 @@ https://mstale20.medium.com/basics-of-quantum-computing-with-cirq-5f77ec83e739
 - **Figure 5: Hadamard gate operation on the Bloch sphere**
 - **Made using the Bloch sphere simulator** https://bloch.kherb.io/
 
-##Chapter 2
+
+## Chapter 2

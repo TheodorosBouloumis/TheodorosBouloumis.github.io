@@ -334,3 +334,146 @@ GitHub repository, Chapter 7, *Multiple Kernel Alignement.ipynb* Jupyter noteboo
 - **Figure 18: Genetic algorithm technique workflow for optimizing the quantum feature map** 
 https://iopscience.iop.org/article/10.1088/2058-9565/ac1ab1
 
+## Chapter 8
+
+- **Learn about Variational Quantum Circuits (VQCs) and their applications in quantum machine learning:**
+https://arxiv.org/abs/2012.09265
+
+- **Explore the fundamentals of Variational Quantum Algorithms (VQAs) and how they optimize quantum computations:**
+https://link.springer.com/article/10.1007/s11128-024-04438-2
+
+- **Follow a step-by-step guide on imlementing a Variational Quantum Classifier:**
+https://pennylane.ai/qml/demos/tutorial_variational_classifier
+
+- **Learn how Variational Quantum Circuits are applied to image classification tasks:**
+https://arxiv.org/html/2403.15031v1
+
+- **Explore research on using VQCs for Alzheimer’s disease diagnosis:**
+https://openreview.net/forum?id=D9wNOMsMN6
+
+- **Learn about the vanishing-gradients problem in deep learning and how it can be solved:**
+https://ieeexplore.ieee.org/document/8843652
+
+- **Understand how the parameter shift rule helps compute gradients in quantum circuits:**
+https://pennylane.ai/qml/glossary/parameter_shift
+
+- **Read a formal study on the mathematical foundation of the parameter shift rule:**
+https://quantum-journal.org/papers/q-2022-03-30-677/
+
+- **Explore a GitHub implementation of the Parameter Shift Rule using Qiskit:**
+https://github.com/KevinJoven11/Quantum-Computing/blob/main/Parameter_Shift_Rule.ipynb
+
+- **Learn about barren plateaus and their impact on training deep quantum neural networks:**
+https://pennylane.ai/qml/demos/tutorial_barren_plateaus
+
+- **Read a research study analyzing the causes and solutions to the barren plateau problem:**
+https://quantum-journal.org/papers/q-2022-09-29-824/
+
+- **Dive into how to escape from Barren Plateaus:**
+https://arxiv.org/pdf/2203.09376
+
+- **Discover the COBYLA optimization algorithm and how it’s used in quantum applications:**
+https://openqaoa.entropicalabs.com/optimizers/gradient-free-optimizers/
+
+- **Explore how Variational Quantum Circuits are integrated with autoencoders:**
+https://arxiv.org/html/2409.03350v1
+
+- **Learn about Vector Quantized Variational Autoencoders (VQ-VAEs) and their applications:**
+https://arxiv.org/abs/1711.00937
+
+### Chapter Figures
+
+- **Figure 19: Diagram of the hybrid quantum-classical workflow of a VQC**
+https://medium.com/@typekrish/what-is-a-variational-quantum-classifier-888e40f83b24
+
+- **Figure 20: Autoencoder architecture**
+https://www.ibm.com/think/topics/variational-autoencoder
+
+## Chapter 9
+
+- **Explore quantum machine learning through practical applications, tools, and implementation strategies:**
+https://www.springerprofessional.de/en/quantum-machine-learning-an-applied-approach/19403222 
+
+- **Learn about Quantum Reservoir Computing (QRC) and its role in machine learning:**
+https://www.quera.com/glossary/quantum-reservoir-computing
+
+- **Explore hands-on tutorials on Quantum Reservoir Computing provided by QuEra:**
+https://github.com/QuEraComputing/QRC-tutorials
+
+- **Discover how Quadratic Unconstrained Binary Optimization (QUBO) is applied to Support Vector Machines (SVMs):**
+https://iopscience.iop.org/article/10.1088/1742-6596/2858/1/012002
+
+- **Learn how Genetic Algorithms (GAs) enhance metaheuristic optimization techniques:**
+https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2024-0144
+
+- **Explore research on bit-bit encoding and sub-network techniques in quantum computing:**
+https://arxiv.org/abs/2501.02148
+
+- **Read a work on implementing Quantum Neural Networks (QNNs) using fewer resources:**
+https://arxiv.org/abs/2307.01017
+
+- **Discover how QNNs are used for financial forecasting:**
+https://arxiv.org/html/2306.12965v2#abstract
+
+
+### Chapter Figures
+
+- **Figure 21: Example workflow of Quantum Reservoir Computing (QRC)**
+https://arxiv.org/abs/2407.02553
+
+- **Figure 22: Training an SVM using Quadratic Unconstrained Binary Optimization (QUBO) formulation**
+https://arxiv.org/abs/2409.11876
+
+- **Figure 23: Workflow of a Genetic Algorithm (GA) optimizing a quantum kernel SVM classification**
+https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2024-0144
+
+- **Figure 24: A quantum neural network architecture**
+https://arxiv.org/abs/2501.09528
+
+## Chapter 10
+
+- **Discover how classification models are used for credit scoring and fraud detection in the financial industry:**
+https://www.mdpi.com/2673-2688/5/4/101
+
+- **Explore how machine learning is revolutionizing diagnostics, treatment, and patient care in healthcare:**
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10180678/
+
+- **Discover the benefits and use cases of machine learning in improving retail operations and customer experiences:**
+https://www.ibm.com/think/topics/ai-in-retail
+
+- **Read about how machine learning is optimizing production, quality control, and predictive maintenance in manufacturing:**
+https://www.researchgate.net/publication/364091962_Role_of_Machine_Learning_in_Manufacturing_Sector
+
+- **Learn how machine learning is driving advancements in energy efficiency and sustainability:**
+https://www.nature.com/articles/s41578-022-00490-5
+
+- **Discover how machine learning is transforming the telecom industry with applications in network optimization and customer service:**
+https://www.ericsson.com/en/blog/2021/5/machine-learning-use-cases-in-telecom
+
+- **Read about the applications of quantum machine learning in financial modeling and risk assessment:**
+https://arxiv.org/abs/2407.12618
+
+- **Explore how quantum machine learning is being applied in medical diagnostics and drug discovery:**
+https://ieeexplore.ieee.org/document/10398184
+
+- **Access a collection of machine learning datasets widely used for research and experimentation:**
+https://archive.ics.uci.edu/
+
+- **Download the credit card default dataset for financial risk analysis that we used in the example code:**
+https://www.kaggle.com/datasets/mariosfish/default-of-credit-card-clients
+
+- **Download the medical dataset for diabetes prediction and analysis we used in the example code:**
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+- **Learn about the importance of preprocessing data to improve machine learning model performance:**
+https://www.degruyter.com/document/doi/10.1515/comp-2022-0278/html?lang=en&srsltid=AfmBOorV1vMFXArfzplzxGyIlzmBCSPmMr9MQEutj7nVzmAvF7eryQxn
+
+- **Discover how the XGBoost algorithm enhances predictive performance in machine learning tasks:**
+https://www.nvidia.com/en-eu/glossary/xgboost/
+
+- **Explore the Kolmogorov-Smirnov (KS) test and its applications in statistical analysis and machine learning:**
+https://www.jstatsoft.org/article/view/v039i11
+
+### Chapter Figures
+
+We generated Figures 25-31 from the code snippets discussed here, and the full codes are in Jupyter notebooks in the book's GitHub repository Chapter 10.

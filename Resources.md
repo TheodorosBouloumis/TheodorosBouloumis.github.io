@@ -329,7 +329,7 @@ https://www.researchgate.net/publication/340610860_Multi-stage_Jamming_Attacks_D
 https://www.researchgate.net/publication/373122191_Quantum-Enhanced_Support_Vector_Machine_for_Sentiment_Classification/figures?lo=1
 
 - **Figure 17: Plotted heatmap illustrating the similarities between the dummies data points**  
-**GitHub repository, Chapter 7, Multiple Kernel Alignement.ipynb Jupyter notebook**
+GitHub repository, Chapter 7, Multiple Kernel Alignement.ipynb Jupyter notebook
 
 - **Figure 18: Genetic algorithm technique workflow for optimizing the quantum feature map** 
 https://iopscience.iop.org/article/10.1088/2058-9565/ac1ab1

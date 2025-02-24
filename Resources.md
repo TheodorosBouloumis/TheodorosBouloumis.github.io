@@ -328,7 +328,7 @@ https://www.researchgate.net/publication/340610860_Multi-stage_Jamming_Attacks_D
 - **Figure 16: Transformation of data from input space to classical and quantum feature spaces**
 https://www.researchgate.net/publication/373122191_Quantum-Enhanced_Support_Vector_Machine_for_Sentiment_Classification/figures?lo=1
 
-- **Figure 17: Plotted heatmap illustrating the similarities between the dummies data points**
+- **Figure 17: Plotted heatmap illustrating the similarities between the dummies data points**\\
 **GitHub repository, Chapter 7, Multiple Kernel Alignement.ipynb Jupyter notebook**
 
 - **Figure 18: Genetic algorithm technique workflow for optimizing the quantum feature map** 

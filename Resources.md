@@ -52,8 +52,8 @@ https://dojo.qulacs.org/en/latest/notebooks/1.4_quantum_circuit_diagram.html
 - **Figure 4: The Bloch sphere**
 https://mstale20.medium.com/basics-of-quantum-computing-with-cirq-5f77ec83e739
 
-- **Figure 5: Hadamard gate operation on the Bloch sphere**
-- **Made using the Bloch sphere simulator** https://bloch.kherb.io/
+- **Figure 5: Hadamard gate operation on the Bloch sphere**  
+ Made using the Bloch sphere simulator https://bloch.kherb.io/
 
 
 ## Chapter 2

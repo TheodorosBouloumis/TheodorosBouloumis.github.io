@@ -152,7 +152,7 @@ https://aws.amazon.com/braket/features/#Braket_Direct
 - **Figure 6: Executing a quantum computing task**
 https://www.linkedin.com/pulse/raise-quantum-computing-dr-gopala-krishna-behara/ 
 
- **Figure 7: Classical vs quantum path**
+- **Figure 7: Classical vs quantum path**
 https://www.researchgate.net/publication/385352044_Evaluating_the_Advantage_2_Quantum_Annealer_Prototype_A_Comparative_Evaluation_with_Advantage_1_and_Hybrid_Solver_and_Classical_Restricted_Boltzmann_Machines_on_MNIST_Classification 
 
 - **Figure 8: Summary of quantum computing approaches and companies**

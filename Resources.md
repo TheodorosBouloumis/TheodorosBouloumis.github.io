@@ -160,3 +160,177 @@ https://medium.com/@russfein/quantum-computing-modalities-a-qubit-primer-revisit
 
 - **Figure 9: Amazon Braket workflow**
 https://docs.aws.amazon.com/braket/latest/developerguide/braket-how-it-works.html 
+
+## Chapter 3
+
+- **Discover Hyundai’s collaboration with IonQ to advance quantum computing applications in the automotive industry:**
+https://www.hyundai.com/worldwide/en/newsroom/detail/0000000050
+
+- **Learn how IonQ leverages quantum machine learning for image recognition tasks:**
+https://ionq.com/resources/learn-quantum-machine-learning-image-recognition-application
+
+- **Explore Quera’s Aquila quantum processor and its capabilities in neutral atom quantum computing:**
+https://www.quera.com/aquila
+
+- **Read about recent research on quantum experiments conducted with Quera’s quantum hardware:**
+https://arxiv.org/abs/2407.02553
+
+- **Discover how SavantX’s Hone platform integrates D-Wave’s quantum annealing for advanced computations:**
+https://www.savantx.com/hone
+
+- **Understand how quantum dynamics are harnessed for optimization problems using D-Wave’s technology:**
+https://dwave.medium.com/harnessing-quantum-dynamics-for-optimization-772d4742e25e
+
+- **Explore the principles and real-world applications of quantum annealing:**
+https://arxiv.org/abs/2112.07491
+
+- **Read about advancements in quantum multiple kernel learning techniques produced by the collaboration of IBM with HSBC:**
+https://arxiv.org/abs/2312.00260
+
+- **Discover how different Quantum Processing Units (QPUs) perform through comparative benchmarking:**
+https://arxiv.org/html/2407.10941v2
+
+- **Explore a research-backed benchmarking tool for evaluating QPU performance:**
+https://arxiv.org/abs/2404.13971
+
+- **Learn how IonQ’s Aria system compares to other quantum computing platforms:**
+https://ionq.com/news/february-23-2022-ionq-aria-furthers-lead
+
+
+### Chapter Figures
+
+- **Figure 10: Reduced-sized image for pattern recognition with IonQ device**
+https://youtu.be/jGXTgNmPkps?si=Q4EJyRcotWMq41eU
+
+
+## Chapter 4
+
+- **Learn how to handle imbalanced datasets in Python using various methods and techniques:**
+https://www.packtpub.com/en-us/product/machine-learning-for-imbalanced-data-9781801070836
+
+- **Explore the importance of preprocessing PCA, StandardScaler, and other techniques, and how to implement them:**
+https://www.packtpub.com/en-ec/product/python-machine-learning-9781789955750
+
+- **Discover how quantum feature maps are used in quantum machine learning to transform classical data:**
+https://pennylane.ai/qml/glossary/quantum_feature_map
+
+- **Learn about Support Vector Machines (SVM), their working principles, and their applications in classification tasks:**
+https://www.ibm.com/think/topics/support-vector-machine
+
+- **Explore how quantum kernels are trained using Qiskit for Quantum Support Vector Classification (QSVC) with an example:**
+https://github.com/PatrickHuembeli/QSVM-Introduction/blob/master/Quantum%20Support%20Vector%20Machines.ipynb
+
+- **Understand why accuracy is a poor metric for imbalanced datasets and explore better alternatives:**
+https://dl.acm.org/doi/10.1145/1007730.1007735
+https://arxiv.org/abs/2404.07661
+
+- **Get an overview of Microsoft’s Q# programming language for quantum computing and its capabilities:**
+https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview
+
+## Chapter 5
+
+- **Learn the key differences between Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) and when each is more suited to be used:**
+https://www.ibm.com/think/topics/principal-component-analysis
+https://www.ibm.com/think/topics/linear-discriminant-analysis
+
+- **Explore Linear Discriminant Analysis and how to implement it for dimensionality reduction using Python:**
+https://developer.ibm.com/tutorials/awb-implementing-linear-discriminant-analysis-python
+
+- **Discover how K-means clustering works and its use in unsupervised machine learning:**
+https://www.ibm.com/think/topics/k-means-clustering
+
+- **Read about t-Distributed Stochastic Neighbor Embedding (t-SNE) and how it visualizes high-dimensional data:**
+https://arxiv.org/abs/2009.10301
+
+- **Learn about Uniform Manifold Approximation and Projection (UMAP) and its advantages in dimensionality reduction:**
+https://umap-learn.readthedocs.io/en/latest/
+
+- **Explore how autoencoders can be used for unsupervised dimensionality reduction and feature learning:**
+https://arxiv.org/abs/2201.03898
+
+- **Dive into how Kernel PCA extends traditional PCA to capture nonlinear structures in data:**
+https://arxiv.org/abs/2302.11220  
+
+### Chapter Figures
+
+- **Figure 11: Visual comparison between PCA and LDA**
+https://sebastianraschka.com/Articles/2014_python_lda.html
+
+
+## Chapter 6
+
+- **Learn about different quantum encoding techniques and their role in quantum computing:**
+https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00285-3
+
+- **Explore how classical data can be mapped into quantum states using various encoding methods:**
+https://github.com/PaddlePaddle/Quantum/blob/master/tutorials/machine_learning/DataEncoding_EN.ipynb
+
+- **Read about amplitude encoding and how it efficiently represents classical data in quantum systems:**
+https://quantum-journal.org/papers/q-2024-03-21-1297/
+
+- **Discover how quantum feature maps encode classical data for quantum machine learning applications:**
+https://arxiv.org/html/2410.22084v1
+
+- **Understand how evolutionary algorithms contribute to optimization in quantum computing:**
+https://inspirehep.net/literature/2813849
+
+- **Explore the major challenges of encoding quantum states and their implications for quantum computing:**
+https://www.mdpi.com/2227-7390/12/21/3318 
+
+
+### Chapter Figures
+
+- **Figure 12: Transformation of classical data into quantum states on the Bloch sphere**
+https://shafi-syed.medium.com/quantum-data-and-its-embeddings-1-3b022b2f1245
+
+- **Figure 13: Quantum embeddings and the role of ansatz quantum circuit in machine learning**
+https://arxiv.org/abs/2105.11853
+
+- **Figure 14: Quantum classification methods; Fidelity classifier, RBF fidelity, feature map**
+https://www.mdpi.com/1099-4300/25/6/860
+
+## Chapter 7
+
+- **Learn how the kernel trick enables nonlinear classification by transforming data into higher-dimensional spaces:**
+https://arxiv.org/abs/math/0701907
+
+- **Discover the differences between classical and quantum SVMs and their advantages in machine learning with an example:**
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4630419
+
+- **Understand the complexities of Quantum Support Vector Machines:**
+https://quantum-journal.org/papers/q-2024-01-11-1225/
+
+- **Discover the open source Python-embedded modeling language CVXPY for solving convex optimization problems:**
+https://www.cvxpy.org/ 
+
+- **Learn how to train quantum kernel-based models using PennyLane:**
+https://pennylane.ai/qml/demos/tutorial_kernel_based_training
+
+- **Explore research on leveraging quantum interference to construct quantum kernels:**
+https://arxiv.org/abs/2212.12083
+
+- **Read about experimental implementations and performance analysis of quantum kernels:**
+https://arxiv.org/abs/2407.20364
+
+- **Understand how genetic algorithms are applied in optimization and problem-solving:**
+https://arxiv.org/abs/2302.01303
+
+- **Dive into an implementation of automatic quantum feature map design using genetic algorithms and optimization techniques, following the research papers and GitHub repository:**
+https://arxiv.org/abs/2105.12626
+https://iopscience.iop.org/article/10.1088/2058-9565/ac1ab1
+https://github.com/sergio94al/Automatic_design_of_quantum_feature_maps_Genetic_Auto-Generation
+
+### Chapter Figures
+
+- **Figure 15: Kernel transformation of 2D data points into the 3D space**
+https://www.researchgate.net/publication/340610860_Multi-stage_Jamming_Attacks_Detection_using_Deep_Learning_Combined_with_Kernelized_Support_Vector_Machine_in_5G_Cloud_Radio_Access_Networks
+
+- **Figure 16: Transformation of data from input space to classical and quantum feature spaces**
+https://www.researchgate.net/publication/373122191_Quantum-Enhanced_Support_Vector_Machine_for_Sentiment_Classification/figures?lo=1
+
+- **Figure 17: Plotted heatmap illustrating the similarities between the dummies data points**
+**GitHub repository, Chapter 7, Multiple Kernel Alignement.ipynb Jupyter notebook**
+
+- **Figure 18: Genetic algorithm technique workflow for optimizing the quantum feature map** 
+https://iopscience.iop.org/article/10.1088/2058-9565/ac1ab1
+

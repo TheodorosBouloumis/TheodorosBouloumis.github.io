@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Theodoros Bouloumis is originally from Greece.
-He hold a BSc in Physics from Aristotle University of Thessaloniki, Greece and a PhD in Physics from Okinawa Institute of Science and Technology, Japan OIST.
+He holds a BSc in Physics from Aristotle University of Thessaloniki, Greece and a PhD in Physics from Okinawa Institute of Science and Technology, Japan OIST.
 Currently, he works as Quantum Researcher at Falcondale, a US-based quantum computing specializing in quantum machine learning in fintech.
 
 ![_DSC5120](https://github.com/user-attachments/assets/3e668e3b-c409-4c62-ac20-13ebbbef9b46)
